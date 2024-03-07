@@ -1,4 +1,4 @@
-# Forked from /jenniferColonell/ecephys_spike_sorting/
+Forked from /jenniferColonell/ecephys_spike_sorting/
 
 # Install CatGT, TPrime, and C_Waves
 
